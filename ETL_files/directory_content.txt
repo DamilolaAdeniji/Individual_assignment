@@ -1,0 +1,3 @@
+total 16392
+-rw-r--r--  1 Oluwadamilola  staff        0 Sep  4 21:27 directory_content.txt
+-rw-r--r--  1 Oluwadamilola  staff  8065547 Jun 30 23:45 downloaded_data.csv
