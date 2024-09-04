@@ -25,7 +25,7 @@
         * Set up your postgres database.
         * Run the `create_tables.sql` script to create the required tables.
         * Download the required csv files into the `csv_files` directory.
-        * Run the `load_data_to_db.sh` script in the Bash sub-directory.
+        * Run the `load_data_to_db.sh` script in the Bash sub-directory to loop over all .csv files and load them to their respective tables.
 
 
         
