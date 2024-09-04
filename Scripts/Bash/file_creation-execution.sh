@@ -9,7 +9,7 @@ source .env
 
 # Write into that file
 cat <<EOL > ETL.sh
-
+# go up 2 directories
 cd .. 
 cd ..
 
